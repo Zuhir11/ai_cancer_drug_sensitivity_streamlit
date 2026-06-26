@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+_backup_before_clean_file_names/
+_backup_before_clean_names/
+_backup_before_kaggle_link/
+
+*.zip
+tam_fusion_egitim_veri_seti.csv
+tam_fusion_egitim_veri_seti.csv.gz
+
+.env
+.venv/
+venv/

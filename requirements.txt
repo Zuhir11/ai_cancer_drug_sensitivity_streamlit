@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+torch
+joblib
+openpyxl
+rdkit-pypi
+matplotlib
